@@ -82,3 +82,8 @@ form textarea{
     margin-top:10px;
     margin-bottom:15px;
 }
+section {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: all 0.6s ease;
+}
